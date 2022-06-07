@@ -1,4 +1,4 @@
-# Primeiro projeto usando JavaScrip
+# Primeiro projeto usando JavaScript
 ### Todas as categorias do Jiu-Jitsu 
 ![image](https://user-images.githubusercontent.com/105547657/172436313-5ff90ddf-63df-461c-b335-20a584314aa0.png)
 - Fiz esse projeto usando os conhecimento adiquiridos no curso do Gustavo Guanabara ([curso em video](https://www.youtube.com/playlist?list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1))
