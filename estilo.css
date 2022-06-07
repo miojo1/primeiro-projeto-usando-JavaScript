@@ -1,0 +1,41 @@
+body{
+    font: normal 15pt Arial;
+
+}
+body#imagem{
+    height:95vh; 
+    background-image: url(ibjjf.jpg) ;
+    background-position: center top;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+header{ 
+    margin-top:90px;
+    color:rgb(255, 251, 251) ;
+    text-align:center ;
+    text-shadow: 2px 2px 1px black;
+
+}
+
+
+section{
+
+    background: rgba(255, 255, 255, 0.705);
+    border-radius: 10px;
+    padding: 15px;
+    width: 400px;
+    margin-top:flex;
+    margin-left: auto;
+    margin-right: auto;
+    
+    
+    
+}
+select#faixa1{
+    width: 70px;
+}
+
+
+
+    
+
